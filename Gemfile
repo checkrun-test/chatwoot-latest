@@ -23,6 +23,7 @@ gem 'tzinfo-data'
 gem 'valid_email2'
 gem 'executable-hooks', '1.7.1'
 # compress javascript config.assets.js_compressor
+gem 'concurrent-ruby', '1.3.4'
 gem 'uglifier'
 ##-- used for single column multiple binary flags in notification settings/feature flagging --##
 gem 'flag_shih_tzu'
