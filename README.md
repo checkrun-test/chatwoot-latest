@@ -27,3 +27,6 @@ fgrfgh.
 .
 dffefedf
 test 10ff
+
+
+# the dockerfile with ubuntu 26.04 will only support till ruby 3.2+(gcc 13+) anything below relies on older c++ compiler that is below gcc 13
