@@ -2,6 +2,8 @@
 
 # bruh it was beacuse of some sort of clash between rvm and ruby gems - gem uninstall -i /usr/local/rvm/rubies/ruby-3.3.3/lib/ruby/gems/3.3.0 rubygems-bundler -a -x added this to predependency script lets see
 
+# now lets see how it behaves when i use --with-opemsssl
+
 *Testing Ruby changes - didn't know stars make it italic in md!*.fdvdfddd
 !New line.
 kjlajdlff
