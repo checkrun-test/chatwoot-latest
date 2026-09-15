@@ -5,7 +5,7 @@
 # Run on windows
 
 # realized this is gcc issue when compiling - changes to RUBY version when uninstalling 
-*Testing Ruby changes - didn't know stars make it italic in md!*.fdvdfddd
+*Testing Ruby changes - didn't know stars make it italic in md!*.fdvdfddds
 !New line.
 kjlajdlff
 asdadadfadf
