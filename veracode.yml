@@ -1,12 +1,12 @@
 actions:
   ruby:
     version: 3.3.3
-    bundle: 2.4.6
+    bundle: 3.3.3
   veracode_static_scan:
     build:
       runs_on: ubuntu-latest
       packager_image: 'verainternalnk/scm-packaging:latest'
-      #predependency_command: |
+      predependency_command: sudo apt install -y htop
         
   veracode_sca_scan:
     build:
